@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "flow-bin": "^0.118.0",
     "history": "latest",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "primeicons": "^2.0.0",
     "primereact": "^3.4.0",
     "react": "^16.12.0",
